@@ -15,7 +15,7 @@
       <h2 class="course-title">List of Tugas:</h2>
       <ul class="course-items">
         <li v-for="course in courses" :key="course.id" class="course-item">
-          <a :href="getCourseUrl(course.id)" target="_blank" class="course-link">
+          <a :href="getCourseUrl(course.id)" target="_self" class="course-link">
             <div class="course-info">
               <h3 class="course-name">{{ course.name }}</h3>
               <p class="course-details">{{ course.details }}</p>
