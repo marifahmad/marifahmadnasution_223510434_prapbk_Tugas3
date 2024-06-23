@@ -104,7 +104,7 @@ export default {
       isPost: false,
       courses: [
         { id: 1, name: 'Tugas 1', details: 'Lihat Tugas 1', url: 'https://ahmad-projectcv.netlify.app' },
-        { id: 2, name: 'Tugas 2', details: 'Lihat Tugas 2', url: '/free-tugas' },
+        { id: 2, name: 'Tugas 2', details: 'Lihat Tugas 2', url: 'https://marifahmadn-223510434-lab-t2freetugas.netlify.app' },
         { id: 3, name: 'Tugas 3', details: 'Lihat Tugas 3', url: 'https://marifahmad.netlify.app' },
         { id: 4, name: 'Tugas 4', details: 'Lihat Tugas 4', url: 'https://marifahmad-223510434-prapbk.netlify.app' },
         { id: 5, name: 'Tugas 5', details: 'Lihat Tugas 5', url: 'https://marifahmad-223510434-ppbk-t5-landingp.netlify.app' },
